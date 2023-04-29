@@ -68,7 +68,7 @@ links:
     url: "mailto:email@email"
   - name: "Puhelin"                                                                                                                                     
     icon: "fas fa-phone"                                                                                                                                      
-    url: "tel:+3581111111" 
+    url: "tel:+35811111111" 
 
 # Services
 # First level array represent a group.
